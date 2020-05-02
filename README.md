@@ -1,4 +1,4 @@
-# Kovidor Projesi (TRIA AI COVID-19 Datathonu 2.si)
+# Kovidor Projesi (TRIA AI COVID-19 Datathon Türkiye 2.si)
 
 ## Amaç
 Projenin amacı ülkelerin pandemi süreçlerindeki benzerlikleri toplam ve yeni vaka sayılarının artışını inceleyerek tespit etmek ve temkinli, anlaşılır ve bilgilendirici bir model ortaya koymaktır. Bu model çıktısı herhangi bir ülkenin pandemi sürecinin neresinde olduğunu özetleyecek bir gösterge olacaktır.
